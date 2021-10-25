@@ -10,3 +10,15 @@
     .
   </p>
 </div>
+
+
+<!-- ABOUT THE PROJECT -->
+## O projektu
+
+Animace hlavní stránky použitá Vanila JS.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
